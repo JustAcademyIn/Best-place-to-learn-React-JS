@@ -1,5 +1,5 @@
 # Best place to learn React JS
-## [Best place to learn React JS](https://www.justacademy.co/program-detail/software-testing)
+## [Best place to learn React JS](https://www.justacademy.co/course-detail/react-js-training)
 Learning React.js is essential for modern web development, enabling the creation of dynamic and interactive user interfaces. Mastering React.js opens up lucrative career opportunities in the tech industry, as demand for skilled React.js developers continues to rise. Start your journey to proficiency and career advancement today.
 Here are some best place to learn react js:
 
